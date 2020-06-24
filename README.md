@@ -14,7 +14,7 @@ The purpose of this homework was to create a calendar application that allows us
   <li>GitHub Account</li>
 </ul>
 
-<h3>Password Generator Criteria</h3>
+<h3>Daily Scheduler Criteria</h3>
 <ul>
   <li>When the user opens the palnner, the current day is displayed at the top of the calendar</li>
   <li>When the user scrolls down, they are presented with timeblocks for standard business hours</li>
