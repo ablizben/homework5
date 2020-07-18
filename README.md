@@ -57,4 +57,4 @@ The purpose of this homework was to create a calendar application that allows us
 <h3><a href="https://ablizben.github.io/homework5/">Link to App</a></h3>
 
 <img src="scheduler1.png">
-<img src="schedulers2.png">
+<img src="scheduler2.png">
