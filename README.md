@@ -38,5 +38,5 @@ If you'd like to get a copy of the project up and running on your local machine 
 
 - HTML
 - CSS
-- [jQuery] (https://jquery.com/) - JavaScript Library
-- [Bootstrap] (https://getbootstrap.com/) - CSS framework directed at responsive, mobile-first front-end web development.
+- [jQuery](https://jquery.com/) - JavaScript Library
+- [Bootstrap](https://getbootstrap.com/) - CSS framework directed at responsive, mobile-first front-end web development.
